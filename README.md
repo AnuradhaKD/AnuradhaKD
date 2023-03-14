@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Anuradha Kumara Dissanayake
 #### I am UI UX Designer and Developer.
-![I am UI UX Designer and Developer.](./Screenshot 2023-03-14 200927.png)
-
 I am an undergraduate student at the Trincomalee Campus of Eastern 
 The University of Sri Lanka. I am studying Computer Science there. I 
 complete my A/Ls at Central College, Kekirawa. I am self-motivator 
@@ -10,8 +8,6 @@ with excellence.
 
 Skills: FIGMA / ILLUSTRATOR / PHOTOSHOP  / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning ASP.NET  
-- 📫 How to reach me: ) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnuradhaKD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//anuradha-kumara-dissanayake-19970504//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100086972991789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AnuradhaKD47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17927324/anuradha-kumara-dissanayake)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCBa5MLHVZTzsC1YDXOqgIQg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://akddevelopers.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/anuradhkumara)  
