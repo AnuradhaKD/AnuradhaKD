@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Anuradha Kumara Dissanayake
 #### I am UI UX Designer and Developer.
+![I am UI UX Designer and Developer.](https://media.licdn.com/dms/image/C5616AQFxYfrZg1kugA/profile-displaybackgroundimage-shrink_350_1400/0/1661419604300?e=1684368000&v=beta&t=fXx_JzA9o4daVeHnrmMC5TRf-RtNw_m_yCP4UfN0cjg)
+
 I am an undergraduate student at the Trincomalee Campus of Eastern 
 The University of Sri Lanka. I am studying Computer Science there. I 
 complete my A/Ls at Central College, Kekirawa. I am self-motivator 
