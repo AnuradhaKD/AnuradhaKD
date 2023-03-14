@@ -20,12 +20,6 @@ Skills: FIGMA / ILLUSTRATOR / PHOTOSHOP  / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnuradhaKD)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaKD)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuradhaKD&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnuradhaKD)  
-
 ![GitHub metrics](https://metrics.lecoq.io/AnuradhaKD)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AnuradhaKD)  
