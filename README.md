@@ -8,7 +8,7 @@ complete my A/Ls at Central College, Kekirawa. I am self-motivator
 and a positive thinker. I possess strong interpersonal and communication skills and am excellent at working on time and 
 with excellence.
 
-Skills: FIGMA / ILLUSTRATOR / PHOTOSHOP  / REACT / JS / HTML / CSS
+Skills: FIGMA / ILLUSTRATOR / PHOTOSHOP  / ANGULAR / JS / HTML / CSS
 
 
 
