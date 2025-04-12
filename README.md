@@ -22,7 +22,10 @@ Working with REST APIs, calling APIs via Postman, and working with databases wit
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobeillustrator)
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![SQL Server Studio](https://img.shields.io/badge/-SQL%20Server%20Studio-333333?style=flat&logo=microsoftsqlserver)
+
 
 
 ## 📈 GitHub Stats
