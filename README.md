@@ -38,4 +38,4 @@ Working with REST APIs, calling APIs via Postman, and working with databases wit
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in//anuradha-kumara-dissanayake-19970504/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in//anuradha-kumara-dissanayake-19970504/)]
