@@ -32,7 +32,7 @@ Working with REST APIs, calling APIs via Postman, and working with databases wit
 ![Anuradha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuradhaKD&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaKD&layout=compact&theme=light)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnuradhaKD)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnuradhaKD)](https://github.com/AnuradhaKD/github-profile-trophy)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AnuradhaKD)  
 
